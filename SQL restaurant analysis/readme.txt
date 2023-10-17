@@ -2,7 +2,7 @@ DATA ANALYSIS
 
 KPI's Requirement
 
-We need to analyze ker performance indicatores for our pizza sales datato gain insights into our business performance. Specifically, we want to calculate
+We need to analyze key performance indicatores for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate
 the following metrices.
 
 1) Total Revenue
